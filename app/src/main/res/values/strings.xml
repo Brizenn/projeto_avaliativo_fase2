@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">projeto_avaliativo_fase2</string>
+    <string name="inteligencia">Inteligencia artificial</string>
+    <string name="rv">Realidade Virtual</string>
+    <string name="ra">Realidade Aumentada</string>
+    <string name="tamanho_camisa">escolha o genero</string>
+    <string-array name="genero">
+        <item>F</item>
+        <item>M</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
